@@ -1,0 +1,18 @@
+.addToListContainer {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px;
+}
+
+.addbtn {
+  color: white;
+  background-color: royalblue;
+
+}
+
+.addbtn:hover {
+  color: black;
+  background-color: lightskyblue;
+}

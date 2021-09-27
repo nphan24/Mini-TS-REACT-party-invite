@@ -1,0 +1,10 @@
+.listContainer {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
